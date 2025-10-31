@@ -162,27 +162,6 @@ Features:
 Impact: Democratizing healthcare information access
 ```
 
----
-
-### 🔥 **Inferno Brand Website** — *Brand Digital Presence*
-**Challenge**: Translate visual identity into compelling online experience  
-**Solution**: Modern, responsive website showcasing brand authenticity
-
-```yaml
-Tech Stack: React.js • Next.js • Tailwind CSS
-Outcome: Elevated digital presence, resonating with target audience
-```
-
----
-
-### 💒 **Yoruba Traditional Wedding Website**
-**Challenge**: Create culturally rich wedding experience online  
-**Solution**: Responsive site blending tradition with modern design
-
-```yaml
-Tech Stack: React.js • Interactive RSVP • Multimedia Gallery
-Impact: Enhanced guest engagement through storytelling visuals
-```
 
 ---
 
@@ -240,9 +219,9 @@ Impact: Enhanced guest engagement through storytelling visuals
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=timi-smiles&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats-rho-green-20.vercel.app/api?username=timi-smiles&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&icon_color=00C7B7&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timi-smiles&layout=compact&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats-rho-green-20.vercel.app/api/top-langs/?username=timi-smiles&layout=compact&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=timi-smiles&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" />
 
