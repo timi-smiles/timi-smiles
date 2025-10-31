@@ -56,7 +56,7 @@ I'm not your average developer. While others build features, **I deliver measura
 
 ---
 
-## 🏆 Recent Wins & Career Highlights
+## 🏆 Recent Career Highlights
 
 ### 🏢 **Leadway Pensure PFA** — *Software Developer Intern*
 `Jun 2024 - Oct 2024` • Lagos, Nigeria
@@ -164,25 +164,7 @@ Impact: Democratizing healthcare information access
 
 ---
 
-### 🔥 **Inferno Brand Website** — *Brand Digital Presence*
-**Challenge**: Translate visual identity into compelling online experience  
-**Solution**: Modern, responsive website showcasing brand authenticity
 
-```yaml
-Tech Stack: React.js • Next.js • Tailwind CSS
-Outcome: Elevated digital presence, resonating with target audience
-```
-
----
-
-### 💒 **Yoruba Traditional Wedding Website**
-**Challenge**: Create culturally rich wedding experience online  
-**Solution**: Responsive site blending tradition with modern design
-
-```yaml
-Tech Stack: React.js • Interactive RSVP • Multimedia Gallery
-Impact: Enhanced guest engagement through storytelling visuals
-```
 
 ---
 
