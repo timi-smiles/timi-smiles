@@ -223,8 +223,7 @@ Impact: Democratizing healthcare information access
 
 <img src="https://github-readme-stats-rho-green-20.vercel.app/api/top-langs/?username=timi-smiles&layout=compact&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C7B7&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=timi-smiles&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" />
-
+<img src="https://streak-stats.demolab.net/?user=timi-smiles&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C7B7&ring=00C7B7&fire=00C7B7&currStreakLabel=00C7B7" alt="GitHub Streak" />
 </div>
 
 ---
